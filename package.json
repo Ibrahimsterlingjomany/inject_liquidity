@@ -1,0 +1,17 @@
+{
+  "name": "sterling-pool",
+  "version": "1.0.0",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4"
+  },
+  "overrides": {
+    "buffer-layout": "npm:@solana/buffer-layout@^4.0.1",
+    "@solana/buffer-layout": "^4.0.1",
+    "@solana/spl-token": "0.4.13"
+  }
+}
+"overrides": {
+  "buffer-layout": "npm:@solana/buffer-layout@^4.0.1",
+  "@solana/buffer-layout": "^4.0.1",
+  "@solana/spl-token": "0.4.13"
+}
