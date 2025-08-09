@@ -1,1 +1,1 @@
-// === colle ici TON script complet inject_liquidity.js et rien d'autre ===
+// === COLLE ICI *TON* CODE deploy.js COMPLET (celui que tu viens d'envoyer) ===
