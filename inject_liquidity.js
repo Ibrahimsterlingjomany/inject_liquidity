@@ -1,3 +1,1 @@
-PASTE TON SCRIPT ICI
-(colle le code complet, rien d'autre)
-
+// === colle ici TON script complet inject_liquidity.js et rien d'autre ===
