@@ -1,0 +1,2 @@
+Ceci est un test de commit/push. Si tu vois ce fichier sur GitHub,
+ça veut dire que le flux "écrire -> commit -> push" marche bien.
